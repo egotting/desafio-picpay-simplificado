@@ -16,6 +16,7 @@
 
 Caso queira entender melhor as descrições do desafio está neste
 repositório [CLIQUE AQUI](https://github.com/PicPay/picpay-desafio-backend)
+
 **Troquei a API de mensagens por estar offline e utilizei geração de nota fiscal.**
 - **.NET 8**: O framework que fornece as funcionalidades essenciais para a aplicação.
 - **Docker**: Para containerização da aplicação, facilitando o deployment e a escalabilidade.
