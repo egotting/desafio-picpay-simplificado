@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center" width="100%">
-    <img width="30%" src="https://github.com/ronavastech/desafio-picpay-simplificado/images/picpay.png"> 
+    <img width="30%" src="https://github.com/ronavastech/desafio-picpay-simplificado/blob/main/images/picpay.png"> 
 </p>
 
 <p align="center">
