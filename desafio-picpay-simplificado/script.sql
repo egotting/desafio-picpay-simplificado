@@ -1,0 +1,4 @@
+-- DROP TABLE "Wallet" CASCADE;
+-- DROP TABLE "__EFMigrationsHistory";
+-- DROP TABLE "NF" CASCADE;
+-- DROP TABLE "Transaction";
